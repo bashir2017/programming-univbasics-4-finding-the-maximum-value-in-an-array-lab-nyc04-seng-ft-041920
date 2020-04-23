@@ -1,3 +1,4 @@
 def find_max_value(array)
-  # Add your solution here
+  greatest = 0 
+  for array 
 end
